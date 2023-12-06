@@ -1,0 +1,43 @@
+.body {
+    margin: 0;
+}
+
+.header {
+    width: 1600px;
+    height: 200px;
+    background: #9B9F9B;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+}
+
+.section{
+    background-image: url(./Автомобиль\ 1.png);
+    width: 1600px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.footer {
+    width: 1600px;
+    height: 60px;
+    background: #000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    font-size: 24px;
+    color: #FFF;
+    margin-top: 0;
+}
